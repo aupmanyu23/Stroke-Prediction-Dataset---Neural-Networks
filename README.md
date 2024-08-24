@@ -32,5 +32,4 @@ After training the model, the evaluation on the test set showed the following pe
   - **False Negatives (FN)**: 50
   - **True Positives (TP)**: 798
 
-These results indicate that the model was successful in correctly identifying the majority of stroke cases and performed well overall, with high accuracy and ROC AUC.
 
